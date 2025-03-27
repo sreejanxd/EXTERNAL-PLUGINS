@@ -2,4 +2,4 @@
 
 Helper 
 
-- [RABBIT-XD](https://github.com/Mr-rabbit-xd)
+- [RABBIT-XD](https://gist.github.com/Mr-rabbit-xd)
